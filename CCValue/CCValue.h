@@ -1,13 +1,13 @@
 //
 //  CCValue.h
-//  Jade Warrior
+//  CCX
 //
 //  Created by Markus Pfundstein on 3/25/12.
 //  Copyright (c) 2012 Eagerheads. All rights reserved.
 //
 
-#ifndef Jade_Warrior_CCValue_h
-#define Jade_Warrior_CCValue_h
+#ifndef cocos2dx_extensions_CCValue_h
+#define cocos2dx_extensions_CCValue_h
 
 #include "cocos2d.h"
 

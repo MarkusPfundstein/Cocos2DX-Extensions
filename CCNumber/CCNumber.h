@@ -1,13 +1,13 @@
 //
 //  CCNumber.h
-//  Jade Warrior
+//  CCX
 //
 //  Created by Markus Pfundstein on 3/23/12.
 //  Copyright (c) 2012 Eagerheads. All rights reserved.
 //
 
-#ifndef Jade_Warrior_CCNumber_h
-#define Jade_Warrior_CCNumber_h
+#ifndef cocos2dx_extensions_CCNumber_h
+#define cocos2dx_extensions_CCNumber_h
 
 #include <sstream>
 #include "cocos2d.h"
