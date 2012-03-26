@@ -61,7 +61,7 @@ namespace cocos2d_extensions {
             return fpCmp(m_type, rhs->m_type) == 0 ? 1 : 0;
         }
         
-        CC_SYNTHESIZE_READONLY_PASS_BY_REF(_typeT, m_type, Value);
+        CC_SYNTHESIZE_READONLY(_typeT, m_type, Value);
         
     protected:
         ~CCValue()
